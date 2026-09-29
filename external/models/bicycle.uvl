@@ -1,0 +1,8 @@
+features
+    Bicycle
+        mandatory
+            Frame
+            Wheels
+        optional
+            Bell
+            Light

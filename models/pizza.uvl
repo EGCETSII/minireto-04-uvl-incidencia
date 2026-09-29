@@ -1,0 +1,9 @@
+features
+    Pizza
+        mandatory
+            Dough
+        optional
+            Cheese
+            Tomato
+            Mushroom
+            Olives

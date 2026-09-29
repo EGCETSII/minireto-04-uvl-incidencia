@@ -1,0 +1,8 @@
+features
+    WeatherStation
+        mandatory
+            Sensor
+            Display
+        optional
+            WiFi
+            Alarm
